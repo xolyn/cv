@@ -7,3 +7,6 @@ Erewhon
 ```
 ## TeX Live Version
 2020 Legacy
+
+## Font Size
+`12 px`
